@@ -26,3 +26,7 @@
 6. Pushing the changes to a remote repository: The script pushes the changes to the remote repository with the specified remote name (origin in the example code) and branch name (my_new_feature in the example code).
 
 Overall, the script is intended to make it easier to perform common Git tasks that you might otherwise have to do manually. By automating these tasks, you can save time and reduce the risk of errors when working with Git.
+
+## Testing 
+
+# This is needed before I continue 
